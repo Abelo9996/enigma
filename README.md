@@ -1,2 +1,2 @@
 # enigma
-Completed the CS61B project that re-creates the infamous Enigma machine using 10 rotors in Java. Received 33/28 points in the project.
+You may have heard of the Enigma machines that Germany used during World War II to encrypt its military communications. If you have not, I recommend you read the wikipedia page on them, or similar resource, especially the part about design and operation. This implementation involves building a simulator for a generalized version of this machine (which itself had several different versions.) The program takes descriptions of possible initial configurations of the machine and messages to encode or decode (the Enigma algorithms were reciprocal, meaning that encryption is its own inverse operation.).
